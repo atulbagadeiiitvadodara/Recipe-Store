@@ -2,7 +2,7 @@
   "name": "recipe-payment-gateway",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://atulbagadeiiitvadodara.github.io/Recipe-Store",
+  "homepage": "http://atulbagadeiiitvadodara.github.io/recipe-store",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^4.2.4",
