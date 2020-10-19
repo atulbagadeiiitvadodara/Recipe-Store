@@ -1,4 +1,4 @@
-- I have developed the pseudo frontend app RecipePaymentGateway using pure React only. 
+- I have developed the pseudo frontend app Recipe-Sore with Payment Gateway using pure React only. 
 - I could have used redux in this app but considering the less complexity of this app, I chose not to use redux. 
 - If you want to run this app on your system, you just need to be on the directory recipe-payment-gateway and run the command 'npm install' and after that run 'npm start' and this will launch the app on your localhost server. Now you can see this app running in your browser.
 
