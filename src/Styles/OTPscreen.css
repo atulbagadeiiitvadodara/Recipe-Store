@@ -1,0 +1,16 @@
+.OTP{
+    text-align: center;
+}
+
+.OTP input{
+    font-size: 15px;
+}
+
+.OTP button{
+    font-size: 15px;
+}
+
+button :hover{
+    background-color: black;
+    color: aliceblue;
+}
